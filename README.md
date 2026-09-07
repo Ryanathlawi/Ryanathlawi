@@ -92,17 +92,9 @@ readable six months later.
 <br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryanathlawi&theme=github_dark" />
-  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryanathlawi&theme=github_light" alt="Most used languages" />
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryanathlawi&theme=github_dark&utcOffset=3" />
-  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryanathlawi&theme=github_light&utcOffset=3" alt="Productive time" />
+  <img width="54%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryanathlawi&theme=github_light&utcOffset=3" alt="Commits by hour" />
 </picture>
-
-<br /><br />
-
-<img width="88%" src="https://ghchart.rshah.org/e5383b/Ryanathlawi" alt="Contribution graph" />
 
 </div>
 
