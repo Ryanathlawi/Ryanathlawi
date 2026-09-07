@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 74" width="1000" height="74" role="img" aria-label="footer">
+<defs>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#c1121f" stop-opacity="0"/>
+<stop offset="50%" stop-color="#e5383b" stop-opacity="1"/>
+<stop offset="100%" stop-color="#c1121f" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<style>
+.m{font-family:'JetBrains Mono','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace}
+.d{animation:p 3s ease-in-out infinite}
+@keyframes p{0%,100%{opacity:.35}50%{opacity:1}}
+</style>
+<rect x="0" y="26" width="1000" height="2" fill="url(#rule)"/>
+<circle class="d" cx="500" cy="27" r="4" fill="#e5383b"/>
+<text class="m" x="500" y="60" font-size="13" letter-spacing="3" fill="#8b949e" text-anchor="middle">THANKS FOR STOPPING BY</text>
+</svg>
