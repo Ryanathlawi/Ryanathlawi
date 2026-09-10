@@ -26,6 +26,6 @@
 <circle cx="828" cy="68" r="5" fill="#3572A5"/>
 <text class="m" x="840" y="73" font-size="13" fill="#8b949e">Python</text>
 <path d="M914 63.5l2.2 4.4 4.9.7-3.6 3.4.9 4.8-4.4-2.3-4.4 2.3.9-4.8-3.6-3.4 4.9-.7z" fill="#e5383b"/>
-<text class="m" x="956" y="73" font-size="13" fill="#8b949e" text-anchor="end">3</text>
+<text class="m" x="956" y="73" font-size="13" fill="#8b949e" text-anchor="end">4</text>
 </g>
 </svg>
