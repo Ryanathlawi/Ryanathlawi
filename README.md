@@ -61,6 +61,12 @@
   <img src="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-fivem-frameworks-dark.svg" width="100%" alt="fivem-frameworks: VS Code extension: IntelliSense and formatting for QBCore, Qbox,…" />
 </picture></a>
 
+<a href="https://github.com/Ryanathlawi/dropship-ar"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-dropship-ar-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-dropship-ar-light.svg" />
+  <img src="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-dropship-ar-dark.svg" width="100%" alt="dropship-ar: " />
+</picture></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/sec-stats-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/sec-stats-light.svg" />
