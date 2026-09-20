@@ -61,10 +61,10 @@
   <img src="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-fivem-frameworks-dark.svg" width="100%" alt="fivem-frameworks: VS Code extension: IntelliSense and formatting for QBCore, Qbox,…" />
 </picture></a>
 
-<a href="https://github.com/Ryanathlawi/dropship-ar"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-dropship-ar-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-dropship-ar-light.svg" />
-  <img src="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-dropship-ar-dark.svg" width="100%" alt="dropship-ar: " />
+<a href="https://github.com/Ryanathlawi/dropship-site"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-dropship-site-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-dropship-site-light.svg" />
+  <img src="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-dropship-site-dark.svg" width="100%" alt="dropship-site: Website for dropship, the Overwatch 2 server selector — English &amp;…" />
 </picture></a>
 
 <picture>
