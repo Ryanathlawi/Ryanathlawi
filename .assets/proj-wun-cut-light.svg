@@ -19,7 +19,7 @@
 <g clip-path="url(#frame)">
 <rect width="1000" height="104" fill="#ffffff"/><rect width="1000" height="104" fill="url(#g)"/><circle cx="1010" cy="40" r="230" fill="url(#glow)"/><rect x=".5" y=".5" width="999" height="103" rx="8" fill="none" stroke="#d0d7de"/><rect width="5" height="104" fill="url(#bar)"/>
 <g transform="rotate(22 1022 70.0)"><rect class="st " x="892" y="-60" width="2" height="260" fill="url(#streak)"/><rect class="st st2" x="950" y="-60" width="3" height="260" fill="url(#streak)"/><rect class="st st3" x="1012" y="-60" width="2" height="260" fill="url(#streak)"/><rect class="st st4" x="1076" y="-60" width="4" height="260" fill="url(#streak)"/><rect class="st st5" x="1138" y="-60" width="2" height="260" fill="url(#streak)"/></g>
-<text class="m" x="40" y="42" font-size="12" letter-spacing="3" fill="#8b949e">02</text>
+<text class="m" x="40" y="42" font-size="12" letter-spacing="3" fill="#8b949e">03</text>
 <text class="m" x="76" y="44" font-size="21" font-weight="700" fill="#0d1117">wun-cut</text>
 <text class="m" x="76" y="72" font-size="14" fill="#57606a">Arabic desktop video editor that runs entirely offline</text>
 <path class="ar" d="M934 44h16m-6-6 6 6-6 6" fill="none" stroke="#c1121f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
