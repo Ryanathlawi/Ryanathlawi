@@ -55,16 +55,16 @@
   <img src="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-wun-studio-dark.svg" width="100%" alt="wun-studio: GTA V and FiveM toolkit — YTD texture editing, clothing validator…" />
 </picture></a>
 
-<a href="https://github.com/Ryanathlawi/wun-cut"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-wun-cut-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-wun-cut-light.svg" />
-  <img src="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-wun-cut-dark.svg" width="100%" alt="wun-cut: Arabic desktop video editor that runs entirely offline" />
+<a href="https://github.com/Ryanathlawi/twitch-adblock-ar"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-twitch-adblock-ar-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-twitch-adblock-ar-light.svg" />
+  <img src="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-twitch-adblock-ar-dark.svg" width="100%" alt="twitch-adblock-ar: " />
 </picture></a>
 
-<a href="https://github.com/Ryanathlawi/fivem-frameworks"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-fivem-frameworks-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-fivem-frameworks-light.svg" />
-  <img src="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-fivem-frameworks-dark.svg" width="100%" alt="fivem-frameworks: VS Code extension: IntelliSense and formatting for QBCore, Qbox,…" />
+<a href="https://github.com/Ryanathlawi/chatterino-ar"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-chatterino-ar-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-chatterino-ar-light.svg" />
+  <img src="https://raw.githubusercontent.com/Ryanathlawi/Ryanathlawi/main/.assets/proj-chatterino-ar-dark.svg" width="100%" alt="chatterino-ar: " />
 </picture></a>
 
 <picture>
